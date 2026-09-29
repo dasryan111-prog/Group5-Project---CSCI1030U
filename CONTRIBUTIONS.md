@@ -55,13 +55,13 @@ Worked example:
 
 ## Milestone 1 - Core Prototype (Units 01-02)
 
-| Student | Planning | Control flow | Collections | Functions |
-|---------|----------|--------------|-------------|-----------|
-| Ryan Das| 70fff77  |  7d4d140     |  7d4d140    |  7d4d140  |
-| <name>  |          |              |             |           |
-| <name>  |          |              |             |           |
-| <name>  |          |              |             |           |
-| <name>  |          |              |             |           |
+| Student          | Planning | Control flow | Collections | Functions |
+|------------------|----------|--------------|-------------|-----------|
+| Ryan Das         | 70fff77  |  7d4d140     |  7d4d140    |  7d4d140  |
+| Murtaza Mahmood  | f632ee7  |  f632ee7     |  f632ee7    |  f632ee7  |
+| <name>           |          |              |             |           |
+| <name>           |          |              |             |           |
+| <name>           |          |              |             |           |
 
 <!-- Optional but recommended: a line per member saying which function or file to look at. -->
 
