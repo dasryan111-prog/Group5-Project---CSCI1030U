@@ -19,13 +19,13 @@ Each member owns **one comparable feature**, built end to end across the term; e
 milestone adds its new topics to *each* slice. Agree on these at Milestone 0 and fill them
 in - the rest of this file is one row per member, per milestone, against their slice.
 
-| Student          | Slice (the feature they own) |
-|------------------|------------------------------|
-| Ryan Das         | Player/Movement              |
-| Murtaza Mahmood  | Inventory and items          |
-| <name>           | <feature>                    |
-| <name>           | <feature>                    |
-| <name>           | <feature>                    |
+| Student         | Slice (the feature they own)|
+|-----------------|-----------------------------|
+| Ryan Das        | Player/Movement             |
+| Murtaza Mahmood | Inventory and items         |
+| <name>          | <feature>                   |
+| <name>          | <feature>                   |
+| <name>          | <feature>                   |
 
 <!-- Teams of four: delete the fifth row, here and in the tables below. -->
 
