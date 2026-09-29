@@ -172,7 +172,7 @@ def use_item():
     elif item["type"] == "weapon":
         player["attack_damage"] += item["value"]
         player["inventory"].remove(choice)
-        print("You equipped the", choice + ".")
+        print("You equipped the " + choice + ".")
         print("Your attack damage is now " + player["attack_damage"])
 
 def item_menu():
