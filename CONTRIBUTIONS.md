@@ -21,7 +21,7 @@ in - the rest of this file is one row per member, per milestone, against their s
 
 | Student | Slice (the feature they own) |
 |---------|------------------------------|
-| <Ryan Das>  | <Player/Movement>                    |
+|Ryan Das | Player/Movement              |
 | <name>  | <feature>                    |
 | <name>  | <feature>                    |
 | <name>  | <feature>                    |
