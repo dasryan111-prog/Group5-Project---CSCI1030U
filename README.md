@@ -9,7 +9,7 @@
 | Full name | GitHub username |
 |-----------|-----------------|
 | Ryan Das  |@dasryan111-prog |
-| <name>    | @<username>     |
+| Murtaza Mahmood | @Murtaza-Mahmood |
 | <name>    | @<username>     |
 | <name>    | @<username>     |
 | <name>    | @<username>     |
