@@ -2,15 +2,13 @@
 
 ## The application
 
-<Two or three sentences: what are you building, and who plays or uses it? It has to fit the
-networked, multi-user theme - see the "Suggested projects" section of
-[`MILESTONES.md`](MILESTONES.md). Name one of the suggestions, or describe your own idea.>
+<This project is a turned based mansion exploration game, in which the player attempts to escape the mansion and collect its loot while fending off enemies. Every turn the player will choose which direction in the mansion they wish to move to, attempting to escape.>
 
 ## The team
 
 | Full name | GitHub username |
 |-----------|-----------------|
-| <name>    | @<username>     |
+| <Ryan Das>    | @<dasryan111-prog>     |
 | <name>    | @<username>     |
 | <name>    | @<username>     |
 | <name>    | @<username>     |

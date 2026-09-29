@@ -21,7 +21,7 @@ in - the rest of this file is one row per member, per milestone, against their s
 
 | Student | Slice (the feature they own) |
 |---------|------------------------------|
-| <name>  | <feature>                    |
+| <Ryan Das>  | <Player/Movement>                    |
 | <name>  | <feature>                    |
 | <name>  | <feature>                    |
 | <name>  | <feature>                    |
@@ -57,7 +57,7 @@ Worked example:
 
 | Student | Planning | Control flow | Collections | Functions |
 |---------|----------|--------------|-------------|-----------|
-| <name>  |          |              |             |           |
+|<Ryan Das>| 70fff77 |  7d4d140     |  7d4d140    |  7d4d140  |
 | <name>  |          |              |             |           |
 | <name>  |          |              |             |           |
 | <name>  |          |              |             |           |
