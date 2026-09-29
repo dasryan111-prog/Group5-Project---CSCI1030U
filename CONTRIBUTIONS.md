@@ -57,7 +57,7 @@ Worked example:
 
 | Student | Planning | Control flow | Collections | Functions |
 |---------|----------|--------------|-------------|-----------|
-|<Ryan Das>| 70fff77 |  7d4d140     |  7d4d140    |  7d4d140  |
+| Ryan Das| 70fff77 |  7d4d140     |  7d4d140    |  7d4d140  |
 | <name>  |          |              |             |           |
 | <name>  |          |              |             |           |
 | <name>  |          |              |             |           |

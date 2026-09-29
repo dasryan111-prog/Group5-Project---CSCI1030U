@@ -8,7 +8,7 @@
 
 | Full name | GitHub username |
 |-----------|-----------------|
-| <Ryan Das>    | @<dasryan111-prog>     |
+| Ryan Das  |@dasryan111-prog |
 | <name>    | @<username>     |
 | <name>    | @<username>     |
 | <name>    | @<username>     |
