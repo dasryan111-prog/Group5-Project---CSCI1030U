@@ -113,7 +113,7 @@ room_items = {
 
 def move_player():
     current_room = rooms[player.current_room]
-    print("\nCurrent room:", player["current_room"])
+    print("\nCurrent room:", player.current_room)
     print("Available Directions:")
 
     for choice in current_room:
