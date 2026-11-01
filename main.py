@@ -112,7 +112,7 @@ room_items = {
 # Handles player movement
 
 def move_player():
-    current_room = rooms[player["current_room"]]
+    current_room = rooms[player.current_room]
     print("\nCurrent room:", player["current_room"])
     print("Available Directions:")
 
