@@ -9,28 +9,8 @@ player = Player()
 `python main.py` must run your project at every milestone, so keep this file working
 from Milestone 1 onward. Replace the placeholder below with your own core loop.
 
-Feedback1
-
-Add comments
-Make input require just one letter/number instead of the whole word
-Collaborate?
-
-
-
 """
-
-# Player data
-
-
-'''
-player = {
-    "health": 100,
-    "attack_damage": 5,
-    "current_room": "entrance",
-    "inventory": []
-}
-'''
-
+# Rooms
 
 rooms = {
     "entrance":{
@@ -147,6 +127,8 @@ def move_player():
         "e": "east",
         "w": "west"
     }
+
+    # Checks if the direction actually exists
 
     if direction in directions:
         direction = directions[direction]
