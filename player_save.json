@@ -1,0 +1,1 @@
+{"health": 100, "attack_damage": 5, "current_room": "kitchen", "inventory": [], "visited_rooms": ["entrance", "foyer", "kitchen"], "room_items": {"entrance": [], "foyer": [], "lounge": [], "kitchen": [], "bedroom": ["sword"], "bathroom": ["health_potion"], "dining_room": [], "closet": [], "dark_room": [], "library": ["health_potion"], "theatre": [], "office": [], "tunnel": []}}
