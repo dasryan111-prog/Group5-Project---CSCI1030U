@@ -70,7 +70,7 @@ Worked example:
 | Student | OOP | File I/O | Recursion | Command-line args | Interface (TUI/GUI) |
 |---------|-----|----------|-----------|-------------------|---------------------|
 |Ryan Das |72d777f|72d777f |   72d777f |     72d777f       |     72d777f         |
-| <name>  |     |          |           |                   |                     |
+| Murtaza Mahmood  |     |          |           |                   |                     |
 | <name>  |     |          |           |                   |                     |
 | <name>  |     |          |           |                   |                     |
 | <name>  |     |          |           |                   |                     |
